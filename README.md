@@ -16,10 +16,10 @@ USE online_shop;
 and then import **online_shop.sql**
 
 ### About page
-The first part of this page is for user who want choose laptop is intended for a specific purpose.
+The first part of this page is for users who want choose laptop which will be intended for a specific purpose.
  ![laptop1.php](img/git/1.png)
  
-The second part of this page is for user who want choose all components for their computers. This configurator checks if the components are compatible and makes it impossible to choose incompatible component.
+The second part of this page is for users who want choose all components for their computers. This configurator checks if the components are compatible and makes it impossible to choose incompatible component.
  ![plyta.php](img/git/2.png)
  
  You can filter all components using left panel.
