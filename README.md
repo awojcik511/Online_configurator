@@ -8,7 +8,7 @@ Created using:
 
 ### Installation
 
-This page requires XAMPP to run. Install it and start the server. Using localhost to create database **online_shop** and use it 
+This page requires XAMPP to run. Install it and start the server. Use phpMyAdmin to create database **online_shop** and use it 
 ```sh
 CREATE DATABASE online_shop;
 USE online_shop;
